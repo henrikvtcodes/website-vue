@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "autoprefixer": "^10.4.7",
+    "lucide-vue-next": "^0.60.0",
     "postcss": "^8.4.14",
     "tailwindcss": "^3.0.24"
   }
