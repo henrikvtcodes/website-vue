@@ -1,13 +1,13 @@
 <template>
   <nav class="mt-2 mb-2 flex space-x-2 md:space-x-4">
-    <span class=" hover:cursor-pointer hover:text-black">
+    <span class="text-white hover:cursor-pointer hover:text-black">
       <NuxtLink to="https://github.com/henrikvtcodes" class="no-underline" target="_blank">
-        <Github class="sm:w-9 w-6 h-auto" />
+        <Github class="sm:w-10 w-7 h-auto" />
       </NuxtLink>
     </span>
-    <span class=" hover:cursor-pointer hover:text-blue-twitter ">
+    <span class="text-white hover:cursor-pointer hover:text-twitter ">
       <NuxtLink to="https://twitter.com/henrik_tech" class="no-underline" target="_blank">
-        <Twitter class="sm:w-9 w-6 h-auto" />
+        <Twitter class="sm:w-10 w-7 h-auto" />
       </NuxtLink>
     </span>
   </nav>
